@@ -3,11 +3,11 @@
 ### Minimal Weather App
 
 
-## Warning
-You need to get your own api key (in video we showed how!) and replace it in index.js file on line 1 :
+## Try this
+https://wavearnab.github.io/Weather.APP/
 
-```javascript
-const apiKey = '32132 321yh3h12h31 2321321h -Example';
-```
+## Demo
+![screenshot](![weather](https://github.com/wavearnab/Weather.APP/assets/132093074/a96f9f6c-4c51-48dd-b8df-dbdcb4d30e18)
+
 
 
